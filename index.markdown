@@ -4,4 +4,5 @@
 
 layout: home
 ---
-Under construction.
+**Courses**
+- [CSC 665: Artificial Intelligence](https://www.tddevlin.com/csc665-fall23/)
