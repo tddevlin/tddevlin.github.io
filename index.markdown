@@ -5,4 +5,9 @@
 layout: home
 ---
 **Courses**
-- [CSC 665: Artificial Intelligence](https://www.tddevlin.com/csc665-fall23/)
+
+Current
+- [CSC 665: Artificial Intelligence](https://www.tddevlin.com/csc665-spring24/)
+
+Past
+- [CSC 665: Artificial Intelligence](https://www.tddevlin.com/csc665-fall23/) (Fall '23)
